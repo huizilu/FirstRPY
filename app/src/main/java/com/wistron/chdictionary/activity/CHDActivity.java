@@ -21,6 +21,7 @@ public class CHDActivity extends Activity {
         opt.inPurgeable = true;
         opt.inInputShareable = true;
          //获取资源图片
+        //111
         try {
             InputStream is = this.getResources().openRawResource(R.raw.bg);
             LinearLayout linearLayout = (LinearLayout) findViewById(R.id.linear);
