@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CHDictionary</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string-array name="search_options">
+        <item>汉字</item>
+        <item>部首</item>
+        <item>拼音</item>
+
+    </string-array>
+</resources>
