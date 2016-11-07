@@ -11,6 +11,7 @@ import java.io.InputStream;
 
 
 public class CHDActivity extends Activity {
+    //这是我的注释
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
